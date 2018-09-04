@@ -1,0 +1,9 @@
+module Fastlane
+  module Actions
+    class GoodAction
+      def run(params)
+        UI.message "Yay good action"
+      end
+    end
+  end
+end
