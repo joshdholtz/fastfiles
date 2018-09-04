@@ -1,3 +1,0 @@
-lane :imported_good do
-  UI.message "Yessss"
-end
